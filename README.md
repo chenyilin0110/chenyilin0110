@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is yilin and I am a Full-stack developer and AI engineer and SI
+![yilin's github stats](https://github-readme-stats.vercel.app/api?username=chenyilin0110&count_private=true&show_icons=true&theme=gotham )
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyilin0110&count_private=true&layout=compact&theme=gotham )](https://github.com/johnpierson/github-readme-stats)
+
 <!--
 **chenyilin0110/chenyilin0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
